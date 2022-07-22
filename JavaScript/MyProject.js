@@ -19,9 +19,9 @@ function myBlog() {
     postAt: new Date(),
   };
 
-  console.log(project);
-  //   projekSaya.push(project);
-  //   Project();
+  // console.log(project);
+  projekSaya.push(project);
+  Project();
 }
 function Project() {
   let projectWrapper = document.getElementById("contents");
